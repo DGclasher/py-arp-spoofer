@@ -15,7 +15,17 @@ For Linux:
 
 For windows: https://www.lifewire.com/how-to-port-forward-4163829
 
-After performing that, clone the repository
+After performing that, you must install the scapy module
+
+For Python 2:
+    
+    pip install scapy
+
+For Python 3:
+    
+    pip3 install scapy
+
+After that, clone the repository:
 
     git clone https://github.com/DGclasher/py-arp-spoofer
 
