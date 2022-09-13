@@ -27,9 +27,7 @@ For Python 3:
 
 After that, download the script:
 
-    git clone https://github.com/DGclasher/py-arp-spoofer
-
-    cd py-arp-spoofer
+    wget https://github.com/DGclasher/py-arp-spoofer/raw/main/py-spoofer.py -o py-spoofer.py
 
 You can run this script either with python2 or python3
 If you need help with arguements to provide, use --help 
