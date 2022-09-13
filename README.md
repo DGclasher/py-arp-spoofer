@@ -25,7 +25,7 @@ For Python 3:
     
     pip3 install scapy
 
-After that, clone the repository:
+After that, download the script:
 
     git clone https://github.com/DGclasher/py-arp-spoofer
 
