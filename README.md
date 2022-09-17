@@ -13,8 +13,6 @@ For Linux:
 
    * If it says permission denied then upgrade yourself to root user
 
-For windows: https://www.lifewire.com/how-to-port-forward-4163829
-
 After performing that, you must install the scapy module
 
 For Python 2:
