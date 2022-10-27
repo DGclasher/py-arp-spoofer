@@ -38,5 +38,4 @@ Operation:
 
 You can use CTRL C/ CTRL Z to stop this script
 
-*Note: This script is not meant for any unethical practices, I would not be held responsible for any misuse of this script*
 ----------------------------------------------------------------------------------------------------------------------
