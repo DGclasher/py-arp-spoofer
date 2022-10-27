@@ -5,6 +5,7 @@
 This python script just works like any other arp spoofer but in a more convenient way.
 
 Port forwarding must be enabled
+
 To do that:
 
     sudo echo 1 > /proc/sys/net/ipv4/ip_forward
